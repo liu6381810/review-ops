@@ -1,9 +1,11 @@
 # Reviewer Roster
 
 ## Requested reviewers of the most recently opened pull request
+
 no open PR
 
-## People I follow (10)
+## 10 people I currently follow
+
 - github
 - octocat
 - gaearon
