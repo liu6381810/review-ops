@@ -1,13 +1,10 @@
 # Reviewer Roster
 
-## Requested reviewers of the most recently opened pull request
-
+## Requested reviewers (most recently opened PR)
 no open PR
 
-## 10 people I currently follow
-
+## People I follow (10)
 - github
-- octocat
 - gaearon
 - torvalds
 - ishandutta2007
@@ -16,3 +13,4 @@ no open PR
 - microsoft
 - octo-org
 - AlinaBrown
+- Julian-Foster
