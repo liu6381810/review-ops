@@ -1,9 +1,9 @@
 # Reviewer Roster
 
-## Requested reviewers (most recently opened PR)
+## Requested reviewers (most recent open PR)
 no open PR
 
-## People I follow (10)
+## People I follow
 - github
 - gaearon
 - torvalds
